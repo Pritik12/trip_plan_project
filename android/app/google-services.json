@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "209376647040",
+    "project_id": "jotrip-signin",
+    "storage_bucket": "jotrip-signin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209376647040:android:fdb0925141ab5b4aa05365",
+        "android_client_info": {
+          "package_name": "com.example.jotrip"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnqbqefksLoQNVNtORz8Z6r5C0uFncAJY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

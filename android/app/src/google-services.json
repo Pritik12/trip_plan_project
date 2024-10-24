@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1000615629378",
+    "project_id": "signinpage-7939c",
+    "storage_bucket": "signinpage-7939c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000615629378:android:11c7c92b83422718ac93db",
+        "android_client_info": {
+          "package_name": "com.example.signin_page"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-Wdn29jjJxwvnAdrorrEVjtd5as0Ip4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
